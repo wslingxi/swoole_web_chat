@@ -1,5 +1,8 @@
 # swoole_web_chat
 swoole网页聊天室，基于jwt登录
+php安装swoole扩展
+命令行切换到项目目录，执行php server.php
+网页访问项目client_login.html即可开启聊天
 
 数据表uid_fid
 CREATE TABLE `uid_fid` (
